@@ -17,6 +17,7 @@ Production-grade tools built with a strict **zero-telemetry, client-side privacy
 | :--- | :--- | :--- | :---: | :---: |
 | **SafePDF** | `Vue 3` • `Vite` • `PDF.js` • `pdf-lib` | **100% In-RAM PDF Compressor**. Decodes, downsamples, and rebuilds PDFs off-main-thread via Web Workers. 0 outbound network packets. | [safepdf-app.vercel.app](https://safepdf-app.vercel.app) | [safe-pdf](https://github.com/mzulfaas/safe-pdf) |
 | **QuickInvoice** | `Flutter Web` • `Dart` • `pdf` | **Client-Side Vector Invoice Compiler**. Compiles crisp vector PDFs in ~150ms directly inside browser RAM. Zero backend database, zero accounts required. | [Live on GitHub Pages](https://mzulfaas.github.io/quick-invoice/) | [quick-invoice](https://github.com/mzulfaas/quick-invoice) |
+| **Production Scraping** |  •  •  | **Resilient Data Extraction Architecture**. High-throughput, zero-dependency crawler enforcing JA4 TLS & HTTP/2 protocol coherence against modern edge WAFs. | [Live on GitHub Pages](https://mzulfaas.github.io/production-scraping-hub/) | [python-scraper](https://github.com/mzulfaas/python-scraper-anti-bot-boilerplate) |
 | **SafeMeta** | `Vue 3` • `HTML5 Canvas` • `Vite` | **Private Image EXIF & C2PA Stripper**. Discards camera identifiers, GPS tags, and tracking chunks via in-memory canvas re-encoding. | *Shipping Soon* | [safe-meta](https://github.com/mzulfaas/safe-meta) |
 
 ---
